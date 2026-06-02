@@ -1,9 +1,7 @@
 # Luis Cohalla
 
 ## About Me
-Computer Science Student | Red Team | Pentester
-
-Welcome to my GitHub profile! I'm passionate about software development and continuously expanding my technical skills.
+Computer Science Student | Ethical Hacker | Red Teamer
 
 ## Connect with Me
 
