@@ -14,38 +14,33 @@ Welcome to my GitHub profile! I'm passionate about software development and cont
 </p>
 
 ## Languages and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,dotnet,git,bash,nodejs,cpp" />
-  </a>
+
+<p align=center>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-ED8936?style=for-the-badge&logo=portswigger&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Nmap-4A5568?style=for-the-badge&logo=wireshark&logoColor=white" /> 
+
+  <img src="https://img.shields.io/badge/Home%20Lab-2F2F2F?style=for-the-badge&logo=housefun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-3182CE?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-1E40AF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+
+  
+  <!-- Fila 4 -->
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-E53E3E?style=for-the-badge&logo=roots&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge&logo=hack-the-box&logoColor=white" />
+  
+  <!-- Fila 5 -->
+  <img src="https://img.shields.io/badge/Bug%20Bounty-4FD1C5?style=for-the-badge&logo=bugcrowd&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Digital%20Forensics-5B21B6?style=for-the-badge&logo=ossec&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Password%20Cracking-8B0000?style=for-the-badge&logo=keepassxc&logoColor=white" />
 </p>
 
-## Currently Learning
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c" />
-  </a>
-</p>
-
-## GitHub Statistics
-
-
-<p align="left">
-  <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kikepy&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="left">
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=kikepy&count_private=true&show_icons=true&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="left">
- <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikepy&layout=compact&theme=tokyonight" />
-  </a>
-</p>
-
+## All Projects
+Check out my repositories for scripts, security tools, and experiments:
+[All Github Repositories](https://github.com/kikepy?tab=repositories)
