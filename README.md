@@ -1,7 +1,7 @@
 # Luis Cohalla
 
 ## About Me
-Computer Science Student | Ethical Hacker | Red Teamer
+Computer Science Student | Ethical Hacker | Red Teamer | Competitive Programmer
 
 ## Connect with Me
 
