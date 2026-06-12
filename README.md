@@ -42,3 +42,8 @@ Computer Science Student | Ethical Hacker | Red Teamer
 ## All Projects
 Check out my repositories for scripts, security tools, and experiments:
 [All Github Repositories](https://github.com/kikepy?tab=repositories)
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=luisiafk&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
+</p>
